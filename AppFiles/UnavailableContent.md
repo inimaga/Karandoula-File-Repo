@@ -6,5 +6,5 @@ Ce contenu n'est actuellement pas disponible. Cependant, nous travaillons pour q
 
 > **NB:**
 
-Si vous souhaitez contribuer à la curation du contenu de l'application (ou contribuer d'une autre manière), veuillez envoyer un e-mail à  _***help@karandoula.com***_. 
-> Merci d'avance!
+Si vous souhaitez contribuer à la curation du contenu de l'application (ou contribuer d'une autre manière), veuillez envoyer un e-mail à **help@karandoula.com**. 
+> Merci d'avance! :)
