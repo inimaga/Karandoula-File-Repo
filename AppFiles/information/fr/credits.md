@@ -4,17 +4,9 @@ Karandoula est actuellement une collection de leçons et de ressources disponibl
 
 Si vous souhaitez aider, n'hésitez pas à me contacter [ici](https://issanimaga.com/contact/) ou envoyer un e-mail à [help@karandoula.com](mailto:help@karandoula.com).
 
-<br/>
-
-________
-
 ## L'équipe Karandoula
 - [Issa Nimaga](https://issanimaga.com) (Full Stack Developer and Content Curator)
 
-
-<br/>
-
-________
 ## Contenu utilisé
 
 | Nom     	| Source  	|
@@ -29,6 +21,5 @@ ________
 |  Khan Academy	| [Khanacademy.org ](https://fr.khanacademy.org/) |
 | Wikipedia | [Wikipedia.org ](https://fr.wikipedia.org/) |
 
-<br/>
 
 ________
