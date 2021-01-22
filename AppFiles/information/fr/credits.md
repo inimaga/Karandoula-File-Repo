@@ -1,10 +1,3 @@
----
-layout: page
-title: Crédits
-include_in_header: false
-include_in_footer: false
----
-
 # Crédits et attributions
 
 Karandoula est actuellement une collection de leçons et de ressources disponibles gratuitement sur l'Internet. Il est, en tant que tel, le produit des efforts et des contributions (directes et indirectes) de multiples individus et organisations. Vous trouverez ci-dessous une liste complète des aides/contributeurs et des ressources gratuites utilisées dans la création de ce service/application. 

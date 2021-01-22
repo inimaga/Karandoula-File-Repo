@@ -1,10 +1,3 @@
----
-layout: page
-title: Credits
-include_in_header: false
-include_in_footer: false
----
-
 # Credits
 
 Karandoula is at present, a curation of freely available lessons & resources from around the internet. It is as such, the product of the efforts and contributions (direct & indirect) of multiple individuals & organisations. Below is a full list of helpers/contributors and free resources used in the creation of this service/app. 
