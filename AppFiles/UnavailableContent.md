@@ -1,4 +1,4 @@
-# Contenu indisponible pour le moment
+# Contenu/Texte indisponible pour le moment
 
 Ce contenu n'est actuellement pas disponible. Cependant, nous travaillons pour que cela devienne disponible pour vous dans un proche avenir. Merci pour votre patience! et revenez bientôt. :)
 
